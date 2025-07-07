@@ -26,4 +26,5 @@ An interactive Power BI dashboard that analyzes website performance metrics incl
 3. Interact with slicers (Device Type, Browser, Month, Traffic Source) to explore various dimensions.
 
 ## Dashboard Preview
+![image alt](https://github.com/Prathiksha0808/Website-Analytics-Dashboard/blob/8db686734e00731354196143f59b6602d63a51d5/dashboard.png)
 
